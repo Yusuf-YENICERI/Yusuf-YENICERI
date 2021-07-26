@@ -9,7 +9,7 @@
 
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-YENICERI&count_private=true&show_icons=true&hide=contribs&theme=merko)](https://github.com/Yusuf-YENICERI/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-YENICERI&include_all_commits=true&show_icons=true&hide=contribs&theme=merko)](https://github.com/Yusuf-YENICERI/github-readme-stats)
 
 <!---
 Yusuf-YENICERI/Yusuf-YENICERI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
