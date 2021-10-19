@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=Yusuf-YENICERI&label=Profile%20views&color=0e75b6&style=flat" alt="Yusuf-YENICERI" />
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-YENICERI&include_all_commits=true&show_icons=true&theme=merko)](https://github.com/Yusuf-YENICERI/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-YENICERI&show_icons=true&theme=merko)](https://github.com/Yusuf-YENICERI/github-readme-stats)
 
 
 [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-YENICERI&theme=merko)]()
